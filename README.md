@@ -1,1 +1,1 @@
-## End to End MAchine Learning Project
+## End to End Machine Learning Project of deploying ML model in Elastic Beanstalk
